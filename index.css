@@ -6,7 +6,7 @@
 .container{
     height: 100vh;
  background-image: linear-gradient(rgba(0, 0, 0, 0.99    ), rgba(0, 0, 0, 0.5)), 
-                    url("hero-bg-UOKN8CST.jpg");    background-color: #000;
+                    url("./images/hero-bg-UOKN8CST.jpg");    background-color: #000;
 }
 .nav{
     display: flex;
