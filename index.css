@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 100vh;
+ background-image: linear-gradient(rgba(0, 0, 0, 0.99    ), rgba(0, 0, 0, 0.5)), 
+                    url("hero-bg-UOKN8CST.jpg");    background-color: #000;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding-left:50px;
+    padding-right:50px;
+    /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+}
+ul li a{
+        text-decoration: none;
+        color: white;
+}
+ul li input{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white; 
+background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+.center{
+    display: flex;
+    justify-content: space-around;
+}
+.desc{
+    color: white;
+    display: flex;
+    margin-top: -40px;
+    flex-direction: column;
+    justify-content: center;
+
+    height: calc(100vh - 70px);
+}
+.center .pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center .pic img{
+    height: 500px;
+    border-radius: 20px;
+}
