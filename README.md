@@ -1,64 +1,64 @@
-# Ayoub.dev - Personal Portfolio
+# Ayoub.dev - Portfolio Personnel
 
-Welcome to my personal portfolio repository! This project is a modern, responsive personal website designed to showcase my skills, projects, and professional background.
+Bienvenue dans mon référentiel de portfolio personnel ! Ce projet est un site web personnel moderne et réactif conçu pour mettre en valeur mes compétences, mes projets et mon parcours professionnel.
 
-## 🌟 Portfolio Sections Overview
+## 🌟 Aperçu des sections du portfolio
 
-Here is a breakdown of the main sections of the portfolio, along with screenshots and explanations for each.
+Voici une ventilation des sections principales du portfolio, accompagnée de captures d'écran et d'explications pour chacune.
 
-### 1. Navigation & Header
-![Navigation Bar](images/nav-bar.png)
-The navigation bar is clean and minimalistic. It features the **Ayoub.dev** brand logo alongside links to the core sections of the site (About, Projects, Contact, Resume). A prominent "hire me" call-to-action button is highlighted with a gradient background for quick access to engagement.
+### 1. Navigation et en-tête
+<img width="1898" height="92" alt="nav" src="https://github.com/user-attachments/assets/cb381f49-ff7e-4b6e-bbeb-0a92e22bf102" />
+La barre de navigation est épurée et minimaliste. Elle présente le logo de la marque **Ayoub.dev** ainsi que des liens vers les sections principales du site (À propos, Projets, Contact, CV). Un bouton d'appel à l'action "m'engager" bien visible est mis en évidence avec un arrière-plan dégradé pour un accès rapide.
 
-### 2. Hero Section
-![Hero Section](images/hero-section.png)
-The hero section serves as the main entry point to the site, providing an immediate and strong introduction. 
-- It includes an "Available for Work" badge to clearly signal availability to recruiters.
-- Strong typography emphasis displays my name and my objective.
-- A brief professional summary highlights my experience as a full-stack developer.
-- Quick action buttons point to downloading my Resume or contacting me.
-- Social links are provided for easy connectivity (Instagram, Twitter, GitHub, YouTube).
+### 2. Section héros
+<img width="1898" height="865" alt="Capture d’écran 2026-03-06 174619" src="https://github.com/user-attachments/assets/a792d4fe-c934-4b4f-9ff4-5440587b79c2" />
+La section héros sert de point d'entrée principal du site, offrant une introduction immédiate et forte. 
+- Elle comprend un badge "Disponible pour le travail" pour signaler clairement la disponibilité aux recruteurs.
+- L'emphase typographique forte affiche mon nom et mon objectif.
+- Un bref résumé professionnel met en evídence mon expérience en tant que développeur full-stack.
+- Les boutons d'action rapide pointent vers le téléchargement de mon CV ou vers ma prise de contact.
+- Des liens vers les réseaux sociaux sont fournis pour une connectivité facile (Instagram, Twitter, GitHub, YouTube).
 
-### 3. About Me 
-![About Me Section](images/about-section.png)
-This section offers deeper insight into my background as a Computer Science student and an enthusiastic software engineer.
-- **Bio Text**: A personal bio focusing on my passion for web and mobile development, and problem-solving.
-- **Quick Facts Card**: A concise, highlighted card summarizing my key traits (Computer Science Student, Web Developer, Mobile App Developer, etc.) for easy reading.
+### 3. À propos de moi
+<img width="1892" height="550" alt="Capture d’écran 2026-03-06 174654" src="https://github.com/user-attachments/assets/73cf76eb-0360-4e58-bbcb-9d84e6cd3b5f" />
+Cette section offre un aperçu plus approfondi de mon parcours en tant qu'étudiant en informatique et ingénieur logiciel enthousiaste.
+- **Texte biographique** : Une courte biographie mettant l'accent sur ma passion pour le développement web et mobile, et la résolution de problèmes.
+- **Carte de faits rapides** : Une carte concise et surlignée résumant mes traits clés (Étudiant en informatique, Développeur web, Développeur d'applications mobiles, etc.) pour une lecture facile.
 
-### 4. Skills Breakdown
-![Skills Section](images/skills-section.png)
-The skills section is categorized visually using cards with context-specific icons to make scanning the information effortless:
-- **Web Development**: Features foundational languages (HTML, CSS, JS) and advanced frameworks (React, Angular, Spring Boot, Laravel).
-- **App Development**: Showcases mobile-centric expertise including Flutter, Dart, Android Studio, Swift, Kotlin, and Java.
-- **UI/UX Design**: Highlights design proficiency with tools like Figma, Canva, and Photoshop.
+### 4. Ventilation des compétences
+<img width="1896" height="440" alt="Capture d’écran 2026-03-06 174739" src="https://github.com/user-attachments/assets/9168da28-38b4-41b4-a888-9ff9d2ca8bfa" />
+La section des compétences est catégorisée visuellement à l'aide de cartes avec des icônes spécifiques au contexte pour faciliter la lecture des informations :
+- **Développement Web** : Comprend les langages fondamentaux (HTML, CSS, JS) et les cadres avancés (React, Angular, Spring Boot, Laravel).
+- **Développement d'applications** : Met en évidence l'expertise axée sur le mobile incluant Flutter, Dart, Android Studio, Swift, Kotlin et Java.
+- **Conception UI/UX** : Souligne les compétences en conception avec des outils comme Figma, Canva et Photoshop.
 
-### 5. Tech Stack
-![Tech Stack Section](images/tech-stack.png)
-A dedicated grid displaying individual technologies with their respective official logos. This section reinforces the specific tools I use, such as React, React Native, Spring, Flutter, Angular, Laravel, and PHP.
+### 5. Pile technologique
+<img width="1896" height="293" alt="Capture d’écran 2026-03-06 174830" src="https://github.com/user-attachments/assets/5ac0fa96-6a74-4b86-bf88-4736d012c9f3" />
+Une grille dédiée affichant les technologies individuelles avec leurs logos officiels respectifs. Cette section renforce les outils spécifiques que j'utilise, tels que React, React Native, Spring, Flutter, Angular, Laravel et PHP.
 
-### 6. Projects Gallery
-![Projects Section](images/projects-section.png)
-This section puts my active work on display using visually distinct project cards:
-- **ShoeTopia**: An e-commerce platform built with modern web technologies, showcasing product catalogs, carts, and authentication features.
-- **Netflix Clone**: A React and Firebase-based streaming platform clone complete with movie browsing and search functionalities.
-- **Portfolio Website**: A highlight of this very repository to demonstrate responsive and aesthetic front-end design using HTML, CSS, and JS.
-Each card includes quick links to check out the **Live Demo** or the **GitHub** repository.
+### 6. Galerie de projets
+<img width="1898" height="788" alt="Capture d’écran 2026-03-06 174854" src="https://github.com/user-attachments/assets/0bdc301e-a2e4-490d-917e-8f53b50a001b" />
+Cette section met mon travail actif en évidence en utilisant des cartes de projet visuellement distinctes :
+- **ShoeTopia** : Une plateforme de commerce électronique construite avec des technologies web modernes, mettant en avant des catalogues de produits, des paniers et des fonctionnalités d'authentification.
+- **Netflix Clone** : Un clone de plateforme de streaming basé sur React et Firebase avec navigation de films et fonctionnalités de recherche complètes.
+- **Site de portfolio** : Un aperçu de ce référentiel pour démontrer un design frontale réactif et esthétique utilisant HTML, CSS et JS.
+Chaque carte comprend des liens rapides pour consulter la **Démo en direct** ou le référentiel **GitHub**.
 
-### 7. Get In Touch (Contact)
-![Contact Section](images/contact-section.png)
-The contact section rounds out the portfolio with a sleek dark-themed form and personal info allowing easy communication:
-- **Contact Info**: Readily available Email, Phone Number, and Location details.
-- **Form**: A stylish input form constructed for straightforward message sending.
-- **Social Media Quick Links**: Footer-style buttons routing directly to my GitHub, Twitter, and LinkedIn profiles.
+### 7. Nous contacter (Contact)
+<img width="1898" height="738" alt="Capture d’écran 2026-03-06 174912" src="https://github.com/user-attachments/assets/2bbe84af-9ad4-46ec-8174-f2b911129f3f" />
+La section contact complète le portfolio avec un formulaire au thème sombre brillant et des informations personnelles permettant une communication facile :
+- **Informations de contact** : Coordonnées électroniques, numéro de téléphone et détails de localisation facilement disponibles.
+- **Formulaire** : Un formulaire de saisie élégant conçu pour envoyer des messages simples.
+- **Liens rapides des réseaux sociaux** : Boutons de style pied de page dirigeant directement vers mes profils GitHub, Twitter et LinkedIn.
 
 ---
 
-## 🛠️ Stack Used To Build This Portfolio
+## 🛠️ Pile technologique utilisée pour construire ce portfolio
 
-The portfolio itself is built with a lightweight, dependency-free stack to ensure maximum performance, readability, and customizability:
+Le portfolio lui-même est construit avec une pile légère et sans dépendances pour assurer des performances, une lisibilité et une personnalisabilité maximales :
 
-*   **HTML5**: Clean, semantic tags are used to ensure proper document structure and accessibility for screen readers.
-*   **Vanilla CSS3**: 
-    *   Makes heavy use of modern layout modules like **Flexbox** and **Grid** to maintain responsiveness across all devices.
-    *   Custom color variables, hover transitions, gradients, and soft shadows are all handled natively via CSS without relying on heavy external libraries like Bootstrap or Tailwind.
-*   **Custom Typography & Assets**: Features the `Clash Display` font from Fontshare for a premium, modern header look. It is combined with minimal inline SVGs and devicon integration for fast-loading, scalable vector assets.
+*   **HTML5** : Les balises nettoyantes et sémantiques sont utilisées pour assurer une structure de document appropriée et une accessibilité pour les lecteurs d'écran.
+*   **CSS3** : 
+    *   Utilise largement les modules de mise en page modernes comme **Flexbox** pour maintenir la réactivité sur tous les appareils.
+    *   Les variables de couleur personnalisées, les transitions de survol, les dégradés et les ombres douces sont tous traités nativement via CSS sans dépendre de bibliothèques externes lourdes comme Bootstrap ou Tailwind.
+*   **Typographie personnalisée et ressources** : Utilise la police `Clash Display` de Fontshare pour un aspect d'en-tête moderne et premium. Elle est combinée avec des SVG en ligne minimaux et une intégration devicon pour des ressources vectorielles évolutives et à chargement rapide.
